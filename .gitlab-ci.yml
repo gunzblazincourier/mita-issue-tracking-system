@@ -1,0 +1,35 @@
+stages: [style, build, coverage, docs]
+
+variables:
+  GIT_STRATEGY: clone
+  TIMEOUT: 10m
+
+style:
+  stage: style
+  script:
+      - make style
+
+build-server:
+   stage: build
+   tags:
+      - "docker"
+   script:
+      make servers
+
+
+coverage:
+  stage: coverage
+  script:
+      - make coverage
+  artifacts:
+    paths:
+      - coverage
+
+docs:
+  stage: docs
+  script:
+      - make docs
+  artifacts:
+    when: always
+    paths:
+      - docs/code/html

@@ -1,0 +1,13 @@
+services:
+  shape_rest:
+    image: shape_rest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    develop:
+      watch:
+        - action: rebuild
+          path: .
+          target: /shaperest

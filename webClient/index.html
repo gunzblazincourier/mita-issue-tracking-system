@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>IssueTracker</title>
+    <link rel="stylesheet" href="./style.css" />
+</head>
+
+<body>
+    <header>
+        <h1>IssueTracker</h1>
+    </header>
+
+    <main>
+        <section class="issue-tracker">
+            <div class="tracker-left">
+                <button id="create-btn" class="btn primary">+ New Issue</button>
+                <div id="create-form" class="create-form" aria-hidden="true">
+                    <form id="issue-form">
+                        <label for="title">Title</label>
+                        <input id="title" name="title" type="text" required />
+                        <label for="description">Description</label>
+                        <textarea id="description" name="description" rows="4"></textarea>
+                        <label for="priority">Priority</label>
+                        <select id="priority" name="priority">
+                            <option value="low">Low</option>
+                            <option value="medium" selected>Medium</option>
+                            <option value="high">High</option>
+                        </select>
+                        <label for="status">Status</label>
+                        <select id="status" name="status">
+                            <option value="new" selected>New</option>
+                            <option value="inprogress">InProgress</option>
+                            <option value="done">Done</option>
+                        </select>
+                        <label for="label">Label</label>
+                        <select id="label" name="label">
+                            <option value="bug" selected>Bug</option>
+                            <option value="documentation">Documentation</option>
+                            <option value="suggestion">Suggestion</option>
+                            <option value="testing">Testing</option>
+                            <option value="frontend">Frontend</option>
+                            <option value="backend">Backend</option>
+                        </select>
+                        <div class="form-actions">
+                            <button type="submit" class="btn primary">Submit</button>
+                            <button type="button" id="cancel-create" class="btn">
+                                Cancel
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <div class="tracker-main">
+                <div class="toolbar">
+                    <input type="number" id="search" placeholder="'Enter' to Search issues by ID" />
+                    <input type="number" id="search3" placeholder="'Enter' to Search issues by User" />
+                </div>
+                <div id="issues-list" class="issues-list" aria-live="polite"></div>
+            </div>
+            <div class="tracker-right">
+                <div class="toolbar">
+                    <input type="number" id="search2" placeholder="Find user" />
+                </div>
+                <button id="create-btn2" class="btn primary">+ New User</button>
+                <div id="create-form2" class="create-form" aria-hidden="true">
+                    <form id="user-form">
+                        <label for="name">Name</label>
+                        <input id="name" name="name" type="text" required />
+                        <div class="form-actions">
+                            <button type="submit" class="btn primary">Submit</button>
+                            <button type="button" id="cancel-create2" class="btn">
+                                Cancel
+                            </button>
+                        </div>
+                    </form>
+                </div>
+                <div id="users-list" class="issues-list" aria-live="polite"></div>
+            </div>
+        </section>
+    </main>
+
+    <script src="./script.js"></script>
+</body>
+
+</html>

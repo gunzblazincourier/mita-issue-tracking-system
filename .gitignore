@@ -1,41 +1,57 @@
-# Prerequisites
-*.d
+# You can add to this file (carefully) but there is no need to remove items 
+# unless you need to push that item to the repo. 
+# Remember one of your groupmates may need to ignore these files.
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# 2022-09-14 : temp fix for files from unknown source in Ubuntu
+.nfs?????????*
 
-# Precompiled Headers
-*.gch
-*.pch
+# Mac file: stores folder attributes
+*.DS_Store
 
-# Linker files
-*.ilk
-
-# Debugger Files
-*.pdb
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
+# Executable files as they appear in different OSes 
 *.exe
-*.out
-*.app
+shapeServer/shapeServer
+coneServer/coneServer
+circleServer/circleServer
 
-# debug information files
-*.dwo
+# Temporary files
+*~
+include/*~
+test/*~
+src/*~
+docs/*~
+\#~
+include/\#*~
+test/\#*~
+src/\#*~
+docs/\#*~
+.\#~
+include/.\#*~
+test/.\#*~
+src/.\#*~
+docs/.\#*~
+
+# Artifacts that are produced by different targets
+
+# make docs artifacts
+# -- we want to download and read these but we
+#    do not want to push a copy to the repo
+html/
+
+# make coverage artifacts
+results.coverage
+coverage/
+# These files are only left behind if something
+# goes wrong with the coverage target.
+*.gcda
+*.gcno
+*.gcov
+
+# Code blocks files
+*.cbp
+bin/
+obj/
+
+# Eclipse files
+.project
+.settings
