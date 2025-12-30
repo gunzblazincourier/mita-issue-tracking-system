@@ -10,4 +10,4 @@ services:
       watch:
         - action: rebuild
           path: .
-          target: /shaperest
+          target: /issue-tracking-system

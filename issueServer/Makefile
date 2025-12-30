@@ -83,7 +83,7 @@ coverage: clean-cov
 	$(MAKE) clean-temp
 
 docker:
-	docker build --pull --rm -f "Dockerfile" -t shaperest:latest "."
+	docker build --pull --rm -f "Dockerfile" -t issue-tracking-system:latest "."
 
 start:
 	docker compose -f "compose.yml" up -d --build

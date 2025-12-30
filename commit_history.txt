@@ -1,0 +1,1437 @@
+commit 21cbff8c14ede1d7bc25c5dd8860d1969ade5331
+Merge: 07a7fd2 e4f9057
+Author: uzoj3720 <uzoj3720@mailhost.cs.uleth.ca>
+Date:   Tue Dec 9 18:59:40 2025 +0000
+
+    Merge branch 'uzoj3720_5' into 'microservice'
+    
+    added docs
+    
+    See merge request mita3720/shaperest!22
+
+commit e4f90575df1d53b37ce9bfd9eac00b4bb19c2645
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Tue Dec 9 11:52:00 2025 -0700
+
+    style fixes
+
+commit abd4ecbb2542a241c3db2a87dc0891f6b468482a
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Tue Dec 9 11:49:37 2025 -0700
+
+    added doxygen comments
+
+commit eb0e54b50af8f6e20c250fde4a6a45c42701fc23
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Tue Dec 9 11:35:43 2025 -0700
+
+    added docs to pipeline
+
+commit fb52d2de403e61465a2aa4008a6d465eb19d791a
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Tue Dec 9 11:31:38 2025 -0700
+
+    added docs taeget
+
+commit 07a7fd2914046adac9cf72392c3f23fdb8aec561
+Author: mita3720 <mita3720@mailhost.cs.uleth.ca>
+Date:   Tue Dec 9 15:57:45 2025 +0000
+
+    Edit README.md
+
+commit 34bcf7273a748e472fee8fdb1872a1e8a2a419bf
+Merge: f4c979a e46fbfe
+Author: mita3720 <mita3720@mailhost.cs.uleth.ca>
+Date:   Tue Dec 9 12:23:45 2025 +0000
+
+    Merge branch 'mita3720_7' into 'microservice'
+    
+    Finish and Test all Milestones, and Update README
+    
+    See merge request mita3720/shaperest!21
+
+commit e46fbfe215d08d4e46280793a804531e2defccd4
+Author: mita3720 <mita3720@mailhost.cs.uleth.ca>
+Date:   Tue Dec 9 12:21:57 2025 +0000
+
+    Edit README.md
+
+commit f5182d34807c6997a0190bcb15bd23d88dca8436
+Author: gunzblazincourier <gunzblazinAKM@proton.me>
+Date:   Tue Dec 9 05:18:19 2025 -0700
+
+    Update README.md
+
+commit a1c527cf65dcf6727c2d1f7470350518d21b803d
+Author: gunzblazincourier <gunzblazinAKM@proton.me>
+Date:   Tue Dec 9 05:07:30 2025 -0700
+
+    Remove debug code and garbage comments
+
+commit 25e3b1870613a23128c679c4f380284c9678d85f
+Author: gunzblazincourier <gunzblazinAKM@proton.me>
+Date:   Tue Dec 9 04:46:05 2025 -0700
+
+    Add 3rd additional feature: labels (eg bug, testing etc.)
+
+commit f4c979abf4a8ebfcd3847d0895540e35dab25cb1
+Merge: 0f88518 98b36cf
+Author: mita3720 <mita3720@mailhost.cs.uleth.ca>
+Date:   Tue Dec 9 11:36:44 2025 +0000
+
+    Merge branch 'mita3720_7' into 'microservice'
+    
+    Fix unassignUser <map> error and allow unassigning of specific user when that...
+    
+    See merge request mita3720/shaperest!20
+
+commit 98b36cfb27677c4912521ff7411a41f166e86ba6
+Author: gunzblazincourier <gunzblazinAKM@proton.me>
+Date:   Tue Dec 9 04:33:50 2025 -0700
+
+    Fix unassignUser <map> error and allow unassigning of specific user when that user is deleted; all currently implemented milestones fully working
+
+commit 0f88518dc4c5754a27ed8a80f078827aa55f42c7
+Author: mojt3720 <mojt3720@mailhost.cs.uleth.ca>
+Date:   Tue Dec 9 06:26:53 2025 +0000
+
+    Delete settings.json
+
+commit 07ffad067af08d0779015a911ea01f4523bab9bb
+Merge: 3bc0d02 9d38ff4
+Author: mojt3720 <mojt3720@mailhost.cs.uleth.ca>
+Date:   Tue Dec 9 06:25:43 2025 +0000
+
+    Merge branch 'mojt3720' into 'microservice'
+    
+    Implemented comment milestone
+    
+    See merge request mita3720/shaperest!19
+
+commit 9d38ff4217d6dbaeaba0f94718c3bc985ec3a50b
+Author: Tolulope (Tolulope) Mojid <mojt3720@17lancer>
+Date:   Mon Dec 8 23:23:22 2025 -0700
+
+    Implemented comment milestone
+
+commit 3bc0d0256ea3b6d203cd90982644cb11ced425af
+Merge: 526833f b23994c
+Author: mojt3720 <mojt3720@mailhost.cs.uleth.ca>
+Date:   Tue Dec 9 03:42:40 2025 +0000
+
+    Merge branch 'uzoj3720_4' into 'microservice'
+    
+    Pipeline updates and style fixes
+    
+    See merge request mita3720/shaperest!18
+
+commit b23994cf85b3fb8ba3725035805aac6641361844
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Mon Dec 8 18:33:49 2025 -0700
+
+    coverage artifact fix
+
+commit 4c68efbdfdcd01a826a68f7a1222e5512dba8bb2
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Mon Dec 8 18:31:29 2025 -0700
+
+    coverage makefile fixes
+
+commit 6a8358eac8458c36a92a1d1cccb0cf7f40f0f7b5
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Mon Dec 8 18:28:47 2025 -0700
+
+    skip oatpp headers is makefile
+
+commit 3c39bb556fdf4f66e9620a237e05f284dee9797d
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Mon Dec 8 18:24:47 2025 -0700
+
+    coverage changes
+
+commit d8dfbdc4b64c50001f3cf2b2679b433e89741279
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Mon Dec 8 18:21:47 2025 -0700
+
+    makefile cov fixes
+
+commit 4016727f0e0331bbe128a0aa7753ca579c6f0831
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Mon Dec 8 18:19:21 2025 -0700
+
+    makefile coverage fixes
+
+commit c5e4732cb778bdb5e6587efa5dbd77019bbdafe3
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Mon Dec 8 18:16:43 2025 -0700
+
+    modified makefile coverage command
+
+commit 8d5c7088a408cbd919a634607c760429f7effa4d
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Mon Dec 8 18:15:28 2025 -0700
+
+    dependency fix
+
+commit 3fbff1620d04e7744a35c715aa51962af3095c16
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Mon Dec 8 18:12:02 2025 -0700
+
+    makefile cov target fix
+
+commit 59146e5867ff90142b0d475111b494b2de917df2
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Mon Dec 8 18:02:11 2025 -0700
+
+    makefile fixes
+
+commit 520b511450f1d18cd42e9aed2175d6c1b767c318
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Mon Dec 8 17:58:10 2025 -0700
+
+    added coverage target
+
+commit 1eda2cec1863f2ed20a104180597b1ff3ba7c171
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Mon Dec 8 17:52:13 2025 -0700
+
+    build namespace  fixes
+
+commit 91d34f85ecc43a5b3157afa8f293d50afbaeec37
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Mon Dec 8 17:49:51 2025 -0700
+
+    style fixes
+
+commit 1c9f25ce0d6f04bfbecec130ff8d53778a821585
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Mon Dec 8 17:46:16 2025 -0700
+
+    style fixes
+
+commit 15467033b638b65ee09ec46f16247028b2d8aa6c
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Mon Dec 8 17:17:33 2025 -0700
+
+    style fixes
+
+commit e455c8b52e6b492ed9fa811409eaece11dd6536f
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Mon Dec 8 17:01:57 2025 -0700
+
+    style fixes
+
+commit 5de1ba7b020cf6c9c0f875ae4345d514dc9d1d8a
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Mon Dec 8 16:56:53 2025 -0700
+
+    style changes
+
+commit 31d469b85556305f444506f2548dfbb55e37c1ea
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Mon Dec 8 16:51:19 2025 -0700
+
+    style fix runner.hpp
+
+commit 07af57ef6601ec7a08677af845efd5028eb30ec6
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Mon Dec 8 16:50:19 2025 -0700
+
+    updated cpplint
+
+commit 87b31d4f7badc7f547691fdfa2fd8ef78aa9c944
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Mon Dec 8 16:48:11 2025 -0700
+
+    updated cpplint
+
+commit 348d60a166301ef89e49e27377d618f7d06e2589
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Mon Dec 8 16:44:26 2025 -0700
+
+    style fixes
+
+commit 4f15212e6139e792366cf2e7a8933061ce42716d
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Mon Dec 8 16:41:16 2025 -0700
+
+    style fixes
+
+commit 6fe6b5024eeb50be18dc031421db38729e44853b
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Mon Dec 8 16:23:39 2025 -0700
+
+    style fixes
+
+commit 78229410ad74e33ab3a3a8f086f62cf1ead3e614
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Mon Dec 8 16:16:56 2025 -0700
+
+    user dto temination fix
+
+commit be08c8bddc75728f9054433997e0934ca4c1a1f7
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Mon Dec 8 16:15:43 2025 -0700
+
+    fixed dto file
+
+commit c79887e81a78b40624d0bb3ed59b012930909a5a
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Mon Dec 8 16:14:40 2025 -0700
+
+    style fixes
+
+commit 265860966e17bf1b57acd6cc8f51c33fd51a8732
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Mon Dec 8 15:59:10 2025 -0700
+
+    adgjusted line length
+
+commit fef1a8d8e0ba52f4b1548ac60a88dbaa4f8f5c50
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Mon Dec 8 15:52:54 2025 -0700
+
+    style fixes
+
+commit 924150666ef0d4c6e9265ebf31b18ed0bda56cf8
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Mon Dec 8 15:49:11 2025 -0700
+
+    style fixes
+
+commit a62e3b951f5b94b477c42a66e53e2ec1189afbed
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Mon Dec 8 15:45:35 2025 -0700
+
+    style changes
+
+commit 59bc3ab646fff1d72d08b56953eec436682f647a
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Mon Dec 8 15:42:14 2025 -0700
+
+    wrap lines for stylecheck
+
+commit 8ad0e5869211523a7a7b3aa9f4e276f6e0620474
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Mon Dec 8 15:08:44 2025 -0700
+
+    updated pipeline and makefile
+
+commit 526833f0e1ad5a8a2dd1a6d514cad50c16df8488
+Merge: 0b02567 0769b31
+Author: uzoj3720 <uzoj3720@mailhost.cs.uleth.ca>
+Date:   Mon Dec 8 21:57:06 2025 +0000
+
+    Merge branch 'mita3720_6' into 'microservice'
+    
+    Finish User and Status Milestone
+    
+    See merge request mita3720/shaperest!17
+
+commit 0769b31b183cf81304479a9675915ff2147475f7
+Author: gunzblazincourier <gunzblazinAKM@proton.me>
+Date:   Mon Dec 8 11:27:49 2025 -0700
+
+    Implement combined Issue search by both ID and User
+
+commit eb93bc09d000f2a6c35e2af1c4b9c1e12e177d45
+Author: gunzblazincourier <gunzblazinAKM@proton.me>
+Date:   Mon Dec 8 11:01:39 2025 -0700
+
+    Complete User milestone
+
+commit 4ad976eea34dbb7322e49100329081cf6603e1a9
+Author: gunzblazincourier <gunzblazinAKM@proton.me>
+Date:   Mon Dec 8 05:17:40 2025 -0700
+
+    Complete Status milestone
+
+commit 0b025679ea77acdbc015bb59ba744b4fecedf94d
+Merge: 024fcb4 1d54ce2
+Author: mita3720 <mita3720@mailhost.cs.uleth.ca>
+Date:   Mon Dec 8 12:04:54 2025 +0000
+
+    Merge branch 'mita3720_6' into 'microservice'
+    
+    Finish User milestone
+    
+    See merge request mita3720/shaperest!16
+
+commit 1d54ce26739ccd19db88f10181e979d173863570
+Author: gunzblazincourier <gunzblazinAKM@proton.me>
+Date:   Sun Dec 7 18:25:07 2025 -0700
+
+    Fix error which was preventing updating and deleting user
+
+commit b1b4b88f6b42bd831513649cfb67e650423ff407
+Author: gunzblazincourier <gunzblazinAKM@proton.me>
+Date:   Sat Dec 6 23:34:31 2025 -0700
+
+    Complete writing user milestone
+
+commit 27ede0f0f0db643c454dbb0705ec516c2af0a135
+Author: gunzblazincourier <gunzblazinAKM@proton.me>
+Date:   Sat Dec 6 22:04:34 2025 -0700
+
+    Add CORS to UserController
+
+commit 330e5c9658e9c308335300d46889317cc043eccf
+Author: gunzblazincourier <gunzblazinAKM@proton.me>
+Date:   Sat Dec 6 21:58:24 2025 -0700
+
+    Add some implementation of User milestone
+
+commit 57cc3ce8c62c3a32bb36d6418cc091c8abe5e62b
+Author: gunzblazincourier <gunzblazinAKM@proton.me>
+Date:   Sat Dec 6 20:42:23 2025 -0700
+
+    Search issues by ID instead of title
+
+commit 10a6d24a61bae2837f9a2cc4fc385826cad793a5
+Author: gunzblazincourier <gunzblazinAKM@proton.me>
+Date:   Sat Dec 6 17:58:16 2025 -0700
+
+    Implement issue search by Title
+
+commit ab96e90c46b6251a61295fe8c4cb5f64a479f097
+Author: gunzblazincourier <gunzblazinAKM@proton.me>
+Date:   Sat Dec 6 17:10:49 2025 -0700
+
+    Update displayed issues list after deletion
+
+commit df3e522685f6eedef5ff6c813d2c374040fa123d
+Author: gunzblazincourier <gunzblazinAKM@proton.me>
+Date:   Sat Dec 6 16:16:25 2025 -0700
+
+    Prevent ID increment while updating issue
+
+commit 024fcb4558fe94d285dfa9d509e7a1c6d2c60835
+Merge: c1b28e5 827dd12
+Author: mita3720 <mita3720@mailhost.cs.uleth.ca>
+Date:   Sat Dec 6 13:55:05 2025 +0000
+
+    Merge branch 'mojt3720' into 'microservice'
+    
+    Finished issue Milestone
+    
+    See merge request mita3720/shaperest!14
+
+commit 827dd12cb23a9d2930cfc2d5c71173c8b5244af7
+Author: Tolulope (Tolulope) Mojid <mojt3720@362phoebe>
+Date:   Fri Dec 5 17:56:23 2025 -0700
+
+    Finished create,edit and delete milestones
+
+commit ce1f93008afc1359bfdde03ee7ad7745bd3378d1
+Author: Tolulope (Tolulope) Mojid <mojt3720@362callisto>
+Date:   Thu Dec 4 15:58:23 2025 -0700
+
+    Made some html changes
+
+commit 70f099054dd5cc5ff1b7984a6428c4e144292074
+Author: Tolulope (Tolulope) Mojid <mojt3720@17lancer>
+Date:   Wed Dec 3 19:09:14 2025 -0700
+
+    Added web client strating point functionality
+
+commit c1b28e5d492f11c0fed511eedc211740ecc0e246
+Merge: c97dc8b 36efd12
+Author: mojt3720 <mojt3720@mailhost.cs.uleth.ca>
+Date:   Thu Dec 4 01:04:39 2025 +0000
+
+    Merge branch 'mita3720_5' into 'microservice'
+    
+    Modify IssueServer, remove CommentServer, remove tests etc.
+    
+    See merge request mita3720/shaperest!12
+
+commit 36efd12cc3c90e880bcb38ae23cb6c62301aa88e
+Author: gunzblazincourier <gunzblazinAKM@proton.me>
+Date:   Tue Dec 2 12:21:50 2025 -0700
+
+    Remove CommentServer and tests, and related modifications
+
+commit 198f6b9915966072d42b6475181e0c4546004c84
+Author: gunzblazincourier <gunzblazinAKM@proton.me>
+Date:   Tue Dec 2 11:39:03 2025 -0700
+
+    Add getIssuesByUser to IssueServer
+
+commit a01941384f6ace2434ff31f26419b13cfd18c65a
+Author: gunzblazincourier <gunzblazinAKM@proton.me>
+Date:   Mon Dec 1 21:41:21 2025 -0700
+
+    Update issueServer (particularly issueController)
+
+commit 315cb9fd208f58922d3c8cffcb198b61b3f45539
+Author: gunzblazincourier <gunzblazinAKM@proton.me>
+Date:   Mon Dec 1 19:56:53 2025 -0700
+
+    Change setComment from POST to PUT
+
+commit ed87c734e62cbf9d469af1deeaa7240ddfac5432
+Author: gunzblazincourier <gunzblazinAKM@proton.me>
+Date:   Mon Dec 1 16:13:23 2025 -0700
+
+    Add updateUsername
+
+commit c97dc8b247ecc34ad2af81c448fb058b96d56993
+Author: mojt3720 <mojt3720@mailhost.cs.uleth.ca>
+Date:   Thu Dec 4 01:02:56 2025 +0000
+
+    Revert "Merge branch 'uzoj3720_2' into 'microservice'"
+    
+    This reverts merge request !13
+
+commit 1452f265052212ed690e3d59a9903e0411423531
+Merge: 746c6f8 d8efaa0
+Author: mojt3720 <mojt3720@mailhost.cs.uleth.ca>
+Date:   Thu Dec 4 00:59:34 2025 +0000
+
+    Merge branch 'uzoj3720_2' into 'microservice'
+    
+    added webclient files
+    
+    See merge request mita3720/shaperest!13
+
+commit d8efaa0d3d872fcf34df9ee9be6df8cb62e30c20
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Wed Dec 3 14:30:20 2025 -0700
+
+    added sub headers
+
+commit b23163965c72c6bdba50799bb814b5695bddc6ea
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Wed Dec 3 10:46:39 2025 -0700
+
+    added webclient files
+
+commit 746c6f8068e614f567131e5e97d235e8fb276eed
+Author: uzoj3720 <uzoj3720@mailhost.cs.uleth.ca>
+Date:   Thu Nov 27 18:57:21 2025 +0000
+
+    Edit README.md
+
+commit 0129c6d55525fe51b005592390df51899207a04b
+Merge: abe298a 360ad18
+Author: uzoj3720 <uzoj3720@mailhost.cs.uleth.ca>
+Date:   Thu Nov 27 18:55:37 2025 +0000
+
+    Merge branch 'uzoj3720' into 'microservice'
+    
+    labels endpoint
+    
+    See merge request mita3720/shaperest!11
+
+commit abe298a9a4739d011ad8ec8d99c6cce01f2dd058
+Author: Aditya (Aditya) Mittal <mita3720@362chariklo>
+Date:   Thu Nov 27 11:52:47 2025 -0700
+
+    Update README.md
+
+commit 360ad186946079b19be23bb29c9f25efecf122f6
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Thu Nov 27 11:50:44 2025 -0700
+
+    labels endpoint
+
+commit bb9550faef935f750a30dd994e6231f8e16a0274
+Merge: aa57d19 d5e00fb
+Author: mita3720 <mita3720@mailhost.cs.uleth.ca>
+Date:   Thu Nov 27 18:43:23 2025 +0000
+
+    Merge branch 'uzoj3720' into 'microservice'
+    
+    comments endpoints
+    
+    See merge request mita3720/shaperest!10
+
+commit d5e00fb113497aa2aa78815f576af2e634662a13
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Thu Nov 27 11:29:54 2025 -0700
+
+    comments endpoints
+
+commit aa57d19d64e3a01f1c17d8f0f91c95cc61d1736a
+Author: uzoj3720 <uzoj3720@mailhost.cs.uleth.ca>
+Date:   Thu Nov 27 18:23:37 2025 +0000
+
+    Edit README.md
+
+commit f5908062104401515c53a1b8c37b8f3590ea4ca2
+Author: uzoj3720 <uzoj3720@mailhost.cs.uleth.ca>
+Date:   Thu Nov 27 18:22:29 2025 +0000
+
+    Edit README.md
+
+commit 573e970e99279dcc23b440267170d1972af28574
+Merge: 4f5285d 3037372
+Author: mita3720 <mita3720@mailhost.cs.uleth.ca>
+Date:   Thu Nov 27 18:15:15 2025 +0000
+
+    Merge branch 'mita3720_4' into 'microservice'
+    
+    Make fields in updateIssue optional
+    
+    See merge request mita3720/shaperest!9
+
+commit 30373725c077a25e97dc7b01959ee17d6b2b17ad
+Author: Aditya (Aditya) Mittal <mita3720@362chariklo>
+Date:   Thu Nov 27 11:07:58 2025 -0700
+
+    Make fields in updateIssue optional
+
+commit 4f5285dfc8d3318d8a0c38be5191e13f7e6fad5a
+Merge: 4228767 1103be4
+Author: mita3720 <mita3720@mailhost.cs.uleth.ca>
+Date:   Thu Nov 27 17:55:31 2025 +0000
+
+    Merge branch 'uzoj3720' into 'microservice'
+    
+    Fix user-related issues in IssueServer
+    
+    See merge request mita3720/shaperest!8
+
+commit 1103be4c4c63c8010ff39fce83edb10ac3dee3c1
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Thu Nov 27 10:28:42 2025 -0700
+
+    updated DTO population
+
+commit fc1b95c85d8bb40f80d2c1cd78957c133f86e25c
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Thu Nov 27 10:20:26 2025 -0700
+
+    fix validation
+
+commit cd7245d13befe3a2a08c93f495a817653ea5d101
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Thu Nov 27 10:19:38 2025 -0700
+
+    fixing validation call
+
+commit 6dcefb392c121a29ab8fbc51fbc8803fb4febde9
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Thu Nov 27 09:59:42 2025 -0700
+
+    fix DTO Duplication
+
+commit 62f75ee23e3af7052c0748acad371083e7f3bb0a
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Thu Nov 27 09:50:36 2025 -0700
+
+    Add a UserController to userServer (POST/GET/DELETE users)
+
+commit e79846c841fe46ec800f7bd982982889766b602c
+Merge: af2788a 03d74a1
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Thu Nov 27 09:28:30 2025 -0700
+
+    Merge branch 'uzoj3720' of http://gitlab.cs.uleth.ca/mita3720/shaperest into uzoj3720
+
+commit af2788a15c61dbd349ccee64ef41e0b5b5a2f0c0
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Thu Nov 27 09:27:50 2025 -0700
+
+    fix server connection
+
+commit 03d74a1e884283f3f538de5afbaaddfef25caf2e
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Wed Nov 26 23:10:00 2025 -0700
+
+    fixed build issues
+
+commit 42287676963ffb7ab0c83e8f986ecf8480723640
+Merge: 42bf65e a1250a3
+Author: mita3720 <mita3720@mailhost.cs.uleth.ca>
+Date:   Thu Nov 27 03:40:35 2025 +0000
+
+    Merge branch 'uzoj3720' into 'microservice'
+    
+    Add file-backed UserRepository and persist users in userServer
+    
+    See merge request mita3720/shaperest!7
+
+commit a1250a3d964addc68c128fe786415b9c3c60f6e0
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Wed Nov 26 19:23:53 2025 -0700
+
+    Refactor IssueController to improve code clarity and organization
+
+commit d86cf79e478573a4980e778613146aabc3bab177
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Wed Nov 26 19:15:36 2025 -0700
+
+    Validate user existence via UserService in IssueController
+
+commit 5276d07dd3723f93d3db316706f5f48866936497
+Author: JohnUzoka <johnuzoka19@gmail.com>
+Date:   Wed Nov 26 19:00:53 2025 -0700
+
+    Add file-backed UserRepository and persist users in userServer
+
+commit 42bf65e41705c6b7298e94cf6cab3daecfb39372
+Merge: e295bbb 4c7e771
+Author: uzoj3720 <uzoj3720@mailhost.cs.uleth.ca>
+Date:   Wed Nov 26 21:02:27 2025 +0000
+
+    Merge branch 'mita3720_3' into 'microservice'
+    
+    Major and Minor Updates Throughout Repo
+    
+    See merge request mita3720/shaperest!6
+
+commit 4c7e7713edd8a6a01f6450c54cb58c52ca105423
+Author: Aditya (Aditya) Mittal <mita3720@362amycus>
+Date:   Tue Nov 25 13:27:08 2025 -0700
+
+    Fix undefined reference and update more words
+
+commit 1fa5399511f1907d951eac3f5688742352eb15ed
+Author: gunzblazincourier <gunzblazinAKM@proton.me>
+Date:   Tue Nov 25 13:12:43 2025 -0700
+
+    Correct DTO path in commentServer
+
+commit bc86b819bb1a971a5f4f1a9cc0f809f97bc03591
+Author: gunzblazincourier <gunzblazinAKM@proton.me>
+Date:   Tue Nov 25 13:09:37 2025 -0700
+
+    Update some words throughout repo, particularly in issueServer
+
+commit a282a46a5bd0f4a714a503e1768c568f48581646
+Author: gunzblazincourier <gunzblazinAKM@proton.me>
+Date:   Tue Nov 25 12:26:09 2025 -0700
+
+    Update MAKEFILE for main repo to start all three servers
+
+commit 6cb903970738eccbf6db64bbaff6b45c1ee5c358
+Author: gunzblazincourier <gunzblazinAKM@proton.me>
+Date:   Tue Nov 25 12:23:18 2025 -0700
+
+    Update port for CommentServer
+
+commit 4f2edbbd8366c29ab26da0c881d5746cd7acb7cf
+Author: gunzblazincourier <gunzblazinAKM@proton.me>
+Date:   Tue Nov 25 12:21:12 2025 -0700
+
+    Add services to IssueServer and error checking and localhost update to UserServer
+
+commit 090f1bae3908a93fe569c00a00b24d3156207f25
+Author: gunzblazincourier <gunzblazinAKM@proton.me>
+Date:   Mon Nov 24 12:45:14 2025 -0700
+
+    Edit CommentServer makefile
+
+commit 875cb79b07516bb563810580b22f060e8337a862
+Author: gunzblazincourier <gunzblazinAKM@proton.me>
+Date:   Mon Nov 24 12:43:40 2025 -0700
+
+    Implement functions for ControllerService
+
+commit 67530a06dc29d15483897448fdd30498d72a452b
+Author: gunzblazincourier <gunzblazinAKM@proton.me>
+Date:   Mon Nov 24 12:30:14 2025 -0700
+
+    Change 'user' to 'comment' in most parts of program
+
+commit e295bbb046bc4025c9e21f906555485bcf8d09ab
+Merge: 5551d98 e144207
+Author: mita3720 <mita3720@mailhost.cs.uleth.ca>
+Date:   Mon Nov 24 19:03:58 2025 +0000
+
+    Merge branch 'mojt3720' into 'microservice'
+    
+    Implemented Issue milestone
+    
+    See merge request mita3720/shaperest!5
+
+commit e1442070b8174041710e3283b825f2b23844df38
+Author: Tolulope (Tolulope) Mojid <mojt3720@17lancer>
+Date:   Sun Nov 23 20:33:30 2025 -0700
+
+    Implemented Issue milestone
+
+commit 5551d98547b460e88b3e238e3bcd208de8c7c3cd
+Merge: 5d7254c f5d25a7
+Author: mojt3720 <mojt3720@mailhost.cs.uleth.ca>
+Date:   Sun Nov 23 23:25:59 2025 +0000
+
+    Merge branch 'mita3720_2' into 'microservice'
+    
+    Create User Service
+    
+    See merge request mita3720/shaperest!3
+
+commit f5d25a7110fd9ff7ebad48c78e176f008ddc0feb
+Author: Aditya (Aditya) Mittal <mita3720@362bianca>
+Date:   Sun Nov 23 12:42:36 2025 -0700
+
+    Replace 'circle' with 'user' (except in tests) and comment out test-related stuff in Makefile
+
+commit d6e3d1dbec39f9513208eac5da25ac3c62bacabe
+Author: Aditya (Aditya) Mittal <mita3720@362bianca>
+Date:   Sun Nov 23 12:22:31 2025 -0700
+
+    Make all user functions properly working
+
+commit b97bb88fbb56a22e9e2cbf46c225badc8ff7f9de
+Author: Aditya (Aditya) Mittal <mita3720@362bianca>
+Date:   Sun Nov 23 12:12:06 2025 -0700
+
+    Use queries instead of DTO while creating user
+
+commit 2f3b58895cfa633d5d7465c5793f7f4359097cb9
+Author: Aditya (Aditya) Mittal <mita3720@362bianca>
+Date:   Sun Nov 23 12:06:29 2025 -0700
+
+    Update functions
+
+commit 98520780985abdbdda7f1c50118324b057a9ea97
+Author: gunzblazincourier <gunzblazinAKM@proton.me>
+Date:   Sat Nov 22 19:13:17 2025 -0700
+
+    Convert . to ->
+
+commit 7d79500944c20ed9e0526abdd9d7a60d3eacf7cd
+Author: gunzblazincourier <gunzblazinAKM@proton.me>
+Date:   Sat Nov 22 19:10:59 2025 -0700
+
+    Insert missing semicolon and bracket
+
+commit 6a47ecc4c4cfeb754041753502bb5a88ca4267e0
+Author: gunzblazincourier <gunzblazinAKM@proton.me>
+Date:   Sat Nov 22 19:07:22 2025 -0700
+
+    Try displayAllUsers implementation using TextITS functions
+
+commit e090fff4962f431868673b0b127824f1e4861272
+Author: gunzblazincourier <gunzblazinAKM@proton.me>
+Date:   Sat Nov 22 19:01:00 2025 -0700
+
+    Try implementation of DTO list to display users
+
+commit fb75426ad5bdd3e05124a1f330ce6b2092efe523
+Author: gunzblazincourier <gunzblazinAKM@proton.me>
+Date:   Sat Nov 22 18:50:01 2025 -0700
+
+    Correct deleteUser
+
+commit b161af0fc639685cbd9820277dbff1f542e8bba0
+Author: gunzblazincourier <gunzblazinAKM@proton.me>
+Date:   Sat Nov 22 18:44:09 2025 -0700
+
+    Try to fix errors in userServer
+
+commit b776b12d42d0fb20bf7211bca6f4012104cbcbff
+Author: gunzblazincourier <gunzblazinAKM@proton.me>
+Date:   Sat Nov 22 18:31:33 2025 -0700
+
+    Create deleteUser (untested)
+
+commit bb7ebe9b86c778ad333373e73242b987b5cf3443
+Author: gunzblazincourier <gunzblazinAKM@proton.me>
+Date:   Sat Nov 22 18:25:45 2025 -0700
+
+    Create displayAllUsers and updateUsername (untested)
+
+commit c65dea4e4a69da926afa761e7b27d42672c79a16
+Author: Aditya (Aditya) Mittal <mita3720@362bianca>
+Date:   Sat Nov 22 15:59:23 2025 -0700
+
+    Make user add to list in createUser
+
+commit c1b7faf0f4f0e1d9b47c59df056832304faa7a53
+Author: Aditya (Aditya) Mittal <mita3720@362bianca>
+Date:   Sat Nov 22 15:25:38 2025 -0700
+
+    Add very basic endpoint to createUser
+
+commit 413a5a9e8189cf5e7293b28998e185281ac17a60
+Author: Aditya (Aditya) Mittal <mita3720@362bianca>
+Date:   Sat Nov 22 14:44:42 2025 -0700
+
+    Add endpoint_info
+
+commit 4e635239600016e9d07b7d745f1fca8d634e511d
+Author: Aditya (Aditya) Mittal <mita3720@362bianca>
+Date:   Sat Nov 22 14:41:06 2025 -0700
+
+    Strip code and include user classes and a basic endpoint
+
+commit 5d7254c021688a2aae22c6a30cb03161d0637eee
+Merge: 7ee9769 a0cedd9
+Author: mita3720 <mita3720@mailhost.cs.uleth.ca>
+Date:   Sat Nov 22 00:33:36 2025 +0000
+
+    Merge branch 'mojt3720' into 'microservice'
+    
+    Fixed Job Error
+    
+    See merge request mita3720/shaperest!2
+
+commit a0cedd9292cc7041c9cdc32c8d4e5f99b3cad46c
+Author: Tolulope (Tolulope) Mojid <mojt3720@362triton>
+Date:   Fri Nov 21 15:19:11 2025 -0700
+
+    Fixed Job Error
+
+commit 7ee9769a2a0629a8ac1eb9bba2f8e68e18003139
+Author: anvik <john.anvik@uleth.ca>
+Date:   Tue Nov 18 17:19:10 2025 -0700
+
+    Update README.md to give instructions
+
+commit 900e00d31eb8dc8e655d271be5d8bc026866b604
+Author: anvik <john.anvik@uleth.ca>
+Date:   Tue Oct 28 14:19:49 2025 -0600
+
+    Adding "super" Makefile
+
+commit c7b21a9c29479b70df10d1ff8d9d05c005b1f2bb
+Author: anvik <john.anvik@uleth.ca>
+Date:   Fri Oct 10 14:29:45 2025 -0600
+
+    Updating .gitignore
+
+commit 3d9f3a809da12b8aa43bf59eca2a7dd556f4b6b5
+Author: anvik <john.anvik@uleth.ca>
+Date:   Thu Sep 25 16:26:14 2025 -0600
+
+    Adding cone service to shape service
+
+commit afb49a1d8ce29d8bb1c169b602b6e115cb203312
+Author: anvik <john.anvik@uleth.ca>
+Date:   Wed Sep 24 16:07:29 2025 -0600
+
+    Cone microservice
+
+commit c9a9072da7426b763c1ff442d314e8abdea90ad6
+Author: anvik <john.anvik@uleth.ca>
+Date:   Wed Sep 24 14:03:25 2025 -0600
+
+    Circle and Shape microservices
+
+commit 431dddc183659d7564b9f8b535bd81b8c1c79d38
+Author: anvik <john.anvik@uleth.ca>
+Date:   Fri Sep 5 15:34:56 2025 -0600
+
+    Adding Swagger UI
+
+commit 82e2b1cf7d796109264c907b1252d98777a609ec
+Author: anvik <john.anvik@uleth.ca>
+Date:   Thu Mar 6 12:56:28 2025 -0700
+
+    Moving test directory. Updating Makefile and CIU config
+
+commit bc3d24b14dcc98f7278cebf27b2284c39edc5c4c
+Author: anvik <john.anvik@uleth.ca>
+Date:   Thu Mar 6 18:19:53 2025 +0000
+
+    Edit Makefile
+
+commit f1bd72b1fc80e43ebdc4f6fb49491cd8fbc4bf50
+Author: anvik <john.anvik@uleth.ca>
+Date:   Thu Mar 6 18:17:39 2025 +0000
+
+    Update .gitlab-ci.yml file
+
+commit 40a6a0ccac20ed4d986430de55af48e5ebb18b21
+Author: anvik <john.anvik@uleth.ca>
+Date:   Thu Mar 6 17:36:35 2025 +0000
+
+    Edit Makefile
+
+commit 7b77a9984f2d1f9398ea54463d3aa06ef450bf52
+Author: anvik <john.anvik@uleth.ca>
+Date:   Mon Oct 21 18:34:54 2024 +0000
+
+    Update .gitlab-ci.yml
+
+commit 96742fd3ede5764de05690c85d70ae7ef66c902d
+Author: anvik <john.anvik@uleth.ca>
+Date:   Sat Oct 19 15:15:30 2024 -0600
+
+    Update Makefile and pipeline
+
+commit 260164a45bd4522069b365d415c580ef946e1303
+Merge: 3113818 7a37b36
+Author: anvik <john.anvik@uleth.ca>
+Date:   Sat Oct 19 14:58:40 2024 -0600
+
+    Merging
+
+commit 3113818bc13552eb312475ce666ce753b150dd2c
+Author: anvik <john.anvik@uleth.ca>
+Date:   Sat Oct 19 14:49:38 2024 -0600
+
+    Fixing style errors
+
+commit 7a37b36f63767195f3c7600dd01638ecf38b6fa1
+Author: anvik <john.anvik@uleth.ca>
+Date:   Sat Oct 19 20:04:35 2024 +0000
+
+    Update README.md
+
+commit 4ff42d3cc0744a716a3b932ec6b3e74885fd9d65
+Author: anvik <john.anvik@uleth.ca>
+Date:   Sat Oct 19 20:03:52 2024 +0000
+
+    Updating README.md
+
+commit f31a5fcab61677330b996482d3e398b2e17bee78
+Author: anvik <john.anvik@uleth.ca>
+Date:   Sat Oct 19 20:03:12 2024 +0000
+
+    Formatting README.md
+
+commit a5f1cb6b4e7f7abdbb5fcf0b36612749dd8bfc86
+Author: Dr. Anvik <john.anvik@uleth.ca>
+Date:   Sat Oct 19 13:53:32 2024 -0600
+
+    Moving files from shapeREST folder up a level
+
+commit ff6960bfea46cb465f70a780876db42e482fe098
+Author: Dr. Anvik <john.anvik@uleth.ca>
+Date:   Sat Oct 19 13:42:44 2024 -0600
+
+    Updating Dockerfile and compose.yml
+
+commit 3612d82718b25e5005f762bb511276a3b6ed978e
+Author: Dr. Anvik <john.anvik@uleth.ca>
+Date:   Sat Oct 19 13:21:02 2024 -0600
+
+    Move tests into own folder
+
+commit 8a8d163bc2df9b8de13b22eb7ba4269ae1f35c28
+Author: Dr. Anvik <john.anvik@uleth.ca>
+Date:   Sat Oct 19 13:15:49 2024 -0600
+
+    Cleaning up comments
+
+commit d57959bfbb300acfa9a65fe37bb0b0fea6371e8a
+Author: Dr. Anvik <john.anvik@uleth.ca>
+Date:   Sat Oct 19 12:46:38 2024 -0600
+
+    Move Circle class
+
+commit cb98139d4ec7b3779f2cb76d10447f59942dde73
+Author: Dr. Anvik <john.anvik@uleth.ca>
+Date:   Sat Oct 19 12:45:02 2024 -0600
+
+    Remove prior circle service
+
+commit 4e3936bab6d55a43b52d96ab5da4e12dc8f8ff10
+Author: Dr. Anvik <john.anvik@uleth.ca>
+Date:   Sat Oct 19 12:43:42 2024 -0600
+
+    Refactor DTOs and Controller
+
+commit 9b05c1845375e2f6b3231ac31708c41c65793025
+Author: Dr. Anvik <john.anvik@uleth.ca>
+Date:   Fri Oct 18 12:13:44 2024 -0600
+
+    Created shape service (mirror circle service, different port)
+
+commit 368fce522a539230960d451d5f8fda6700857201
+Author: Dr. Anvik <john.anvik@uleth.ca>
+Date:   Fri Oct 18 11:54:50 2024 -0600
+
+    Start server
+
+commit 19fc79b4302632b24043fab5bacbed2fc2f623d5
+Author: Dr. Anvik <john.anvik@uleth.ca>
+Date:   Fri Oct 18 11:47:45 2024 -0600
+
+    Remove Calculator code
+
+commit 7d5cc1035a93277ea81f76b2a321e1eb94fa5ce9
+Author: Dr. Anvik <john.anvik@uleth.ca>
+Date:   Fri Oct 18 11:44:07 2024 -0600
+
+    Adding missed test
+
+commit d2208d148bb7f13d5f5806fe7ddeb452427add09
+Author: Dr. Anvik <john.anvik@uleth.ca>
+Date:   Fri Oct 18 11:43:53 2024 -0600
+
+    Add POST and test
+
+commit 1d9e208bffc1d4bf8ac0423ea59bf4203f09eae3
+Author: Dr. Anvik <john.anvik@uleth.ca>
+Date:   Fri Oct 18 11:22:25 2024 -0600
+
+    Adding perimeter test
+
+commit a19cd985f963c824cbe0a417ee03a798eeac2f3f
+Author: Dr. Anvik <john.anvik@uleth.ca>
+Date:   Fri Oct 18 11:02:17 2024 -0600
+
+    Adding area test
+
+commit ec278edefe9752f31b8473673fcad543e8b97998
+Author: Dr. Anvik <john.anvik@uleth.ca>
+Date:   Fri Oct 18 10:02:46 2024 -0600
+
+    Working service
+
+commit a4ea0256b69e9f9a9d082467cce38fc37ba0874b
+Author: Dr. Anvik <john.anvik@uleth.ca>
+Date:   Thu Oct 17 17:07:59 2024 -0600
+
+    Base to start from
+
+commit 4e30e27d10449cb221846305d028311340324c45
+Author: Dr. Anvik <john.anvik@uleth.ca>
+Date:   Thu Oct 17 15:53:57 2024 -0600
+
+    Initial files
+
+commit 28c9be12dbcfe25e22477950bd36383fad1c988c
+Author: L Nicole Wilson <n.wilson@uleth.ca>
+Date:   Fri Sep 13 17:06:30 2024 -0600
+
+    Update CPPLINT.cfg to allow the use of *.hpp for header files
+
+commit b0d27746460365a08169cb9612b7acc084377a53
+Author: L Nicole Wilson <n.wilson@uleth.ca>
+Date:   Fri Sep 13 16:54:33 2024 -0600
+
+    Updated reference to the header file in PlaceboClass
+
+commit e068bbbac6d68e0fbb9170fd2269cd1cbc7cdbf5
+Author: L Nicole Wilson <n.wilson@uleth.ca>
+Date:   Fri Sep 13 16:48:13 2024 -0600
+
+    changed the include directory, now using *.hpp
+
+commit f6ae85a906305d41c51603dda1188d00165c0a53
+Author: L Nicole Wilson <n.wilson@uleth.ca>
+Date:   Fri Sep 13 16:47:17 2024 -0600
+
+    To use with VS Code need the header files to be named *.hpp
+
+commit 2750c2d6946d3fcaf4a6fffe320c28762ab6b482
+Author: L Nicole Wilson <n.wilson@uleth.ca>
+Date:   Wed Jan 31 17:55:39 2024 -0700
+
+    Update to make version report
+
+commit 91c7eab343ad67378c5d01ce9142709aab0a24da
+Author: L Nicole Wilson <n.wilson@uleth.ca>
+Date:   Wed Jan 31 17:52:17 2024 -0700
+
+    Add make version target and test
+
+commit 079f20cc7f57d9efa340e3c3023fbff8bf32b7b0
+Author: L Nicole Wilson <n.wilson@uleth.ca>
+Date:   Sat Dec 16 21:26:36 2023 -0700
+
+    Update doxyfile to configuration for 1.9.1
+
+commit d51b0ca3eb6ff07fd366003f4e33d12e8149c32b
+Author: L Nicole Wilson <n.wilson@uleth.ca>
+Date:   Sat Jan 7 15:01:06 2023 -0700
+
+    Update doxyfile and associated commands
+
+commit 4a45fc7cdda685240aec915179664d4bc42a64f1
+Author: wilsonn <wilsonn@mailhost.cs.uleth.ca>
+Date:   Wed Jan 4 22:16:08 2023 +0000
+
+    Update .gitlab-ci.yml
+
+commit e08ea0f7cf2f73f663e1062650f9eb5a3915f84e
+Author: L Nicole Wilson <n.wilson@uleth.ca>
+Date:   Mon Dec 19 13:43:03 2022 -0700
+
+    Update to the doxyfile
+
+commit 7b2eccd74e8dc113a1aded02635436d1199f71a9
+Author: L Nicole Wilson <n.wilson@uleth.ca>
+Date:   Mon Dec 19 13:22:02 2022 -0700
+
+    Update for ubuntu runner/pipelines
+
+commit 94d7f5191c5cae2d6e4449a4717729b920f5f35e
+Author: L Nicole Wilson <n.wilson@uleth.ca>
+Date:   Thu Dec 15 13:31:57 2022 -0700
+
+    Update .gitlab-ci.yml
+
+commit 14a452729ab4b0a7951a30c0147075eb3b82d3e1
+Author: L Nicole Wilson <n.wilson@uleth.ca>
+Date:   Thu Dec 15 13:29:26 2022 -0700
+
+    Update c++ version to C++14 for coming gtest updates
+
+commit 22c170eafd9178a1a9d8005a28216a18a42e0624
+Author: wilsonn <wilsonn@mailhost.cs.uleth.ca>
+Date:   Thu Dec 15 20:12:02 2022 +0000
+
+    Update README.md
+
+commit fee51dab5450e94ae0e27069db4870d6cf85a015
+Author: wilsonn <wilsonn@mailhost.cs.uleth.ca>
+Date:   Thu Dec 15 19:55:58 2022 +0000
+
+    Update README.md
+
+commit 0686afefbb93fd6cb826529ab26277127994bd8f
+Author: wilsonn <wilsonn@mailhost.cs.uleth.ca>
+Date:   Thu Dec 15 19:55:26 2022 +0000
+
+    Update README.md
+
+commit be8a500dd43b4e73932822258d1949ba401e9ce3
+Author: wilsonn <wilsonn@mailhost.cs.uleth.ca>
+Date:   Thu Dec 15 19:34:40 2022 +0000
+
+    Update README.md
+
+commit 5ed76f110c0c58ef3ad5f6070925c58b3d62b268
+Author: wilsonn <wilsonn@mailhost.cs.uleth.ca>
+Date:   Thu Dec 15 19:30:23 2022 +0000
+
+    Update README.md
+
+commit 2c1aa73379c13f43ce2c2b3ac1d6e13acc43d05b
+Author: L Nicole Wilson <n.wilson@uleth.ca>
+Date:   Thu Dec 15 10:55:49 2022 -0700
+
+    Updates for ubuntu pipelines
+
+commit 31f41520f0fa1015e61beab419074b447aad4e6c
+Author: wilsonn <wilsonn@mailhost.cs.uleth.ca>
+Date:   Tue Oct 25 13:41:05 2022 +0000
+
+    Update Makefile - add revision history with notes
+
+commit 90f13a3a58d28497d155f4d74c7cd5ed856946ab
+Merge: f21e2e0 5322802
+Author: wilsonn <wilsonn@mailhost.cs.uleth.ca>
+Date:   Wed Oct 19 22:08:35 2022 +0000
+
+    Merge branch 'main' into 'main'
+    
+    Updating CI and Makefile
+    
+    See merge request template-source/assignment-d!1
+
+commit 5322802dc713dbdae1d1e8da3f43f2b808b7ca0a
+Author: anvik <john.anvik@uleth.ca>
+Date:   Wed Oct 19 22:08:35 2022 +0000
+
+    Updating CI and Makefile
+
+commit f21e2e075cc934f9712c189e89c5c85cea151e30
+Author: wilsonn <wilsonn@mailhost.cs.uleth.ca>
+Date:   Wed Sep 14 22:10:30 2022 +0000
+
+    Update .gitignore
+
+commit 19ae62b8c99c48d706dc2d6724aa48d95e451d58
+Author: wilsonn <wilsonn@mailhost.cs.uleth.ca>
+Date:   Tue Sep 13 00:46:53 2022 +0000
+
+    Update .gitignore
+
+commit bfa6525f286592d7d62fd49f237ce18e75c649f2
+Author: wilsonn <wilsonn@mailhost.cs.uleth.ca>
+Date:   Tue Sep 13 00:35:20 2022 +0000
+
+    Fix silly update to more sensible choice
+
+commit f83455e13c8e68f132dfafd63901b0118c337d35
+Merge: 9d91e0f 35ce321
+Author: L Nicole Wilson <n.wilson@uleth.ca>
+Date:   Sun Sep 11 14:55:57 2022 -0600
+
+    Merge branch 'main' of gitlab.cs.uleth.ca:template-source/assignment-d into main
+
+commit 9d91e0f8e01e0987f44b1a0133ea4178566ff83b
+Author: L Nicole Wilson <n.wilson@uleth.ca>
+Date:   Sun Sep 11 14:55:36 2022 -0600
+
+    Change target allTests to all, the default target for eclipse
+
+commit 35ce3210daa7e538c0e59c1775b714457c8d15f0
+Author: wilsonn <wilsonn@mailhost.cs.uleth.ca>
+Date:   Sun Sep 11 19:43:36 2022 +0000
+
+    Update README.md
+
+commit 0feb9a073e65bd140f1b7725ec933dc9965070aa
+Author: L Nicole Wilson <n.wilson@uleth.ca>
+Date:   Sun Sep 11 13:27:41 2022 -0600
+
+    Update Makefile - consistant bracket use
+
+commit f06d351d7b0b1277aaaab29e98adc8cd52db199c
+Author: L Nicole Wilson <n.wilson@uleth.ca>
+Date:   Sun Sep 11 13:05:59 2022 -0600
+
+    Update the project to run
+
+commit ea3a0afa8a9a1fd4fb14fb2ae2ddda9518071062
+Author: wilsonn <wilsonn@mailhost.cs.uleth.ca>
+Date:   Sun Sep 11 18:41:24 2022 +0000
+
+    Update Makefile
+
+commit 18d885486bc4424bd8c8e6728db16ef7a8943dc7
+Author: wilsonn <wilsonn@mailhost.cs.uleth.ca>
+Date:   Sat Sep 10 22:58:37 2022 +0000
+
+    Update Makefile
+
+commit c16c9e4bc0dfdc45be348fde3e5e1530f4230c33
+Author: wilsonn <wilsonn@mailhost.cs.uleth.ca>
+Date:   Sat Sep 10 21:50:42 2022 +0000
+
+    Update include/placebo_class.h
+
+commit 8053014c3917e0f6284abce0b51835cbf2d71eb2
+Author: wilsonn <wilsonn@mailhost.cs.uleth.ca>
+Date:   Sat Sep 10 21:47:08 2022 +0000
+
+    Update Makefile
+
+commit 9ce89e2cb1d4eab9b35e55f3591edc4ad13dd7d9
+Author: wilsonn <wilsonn@mailhost.cs.uleth.ca>
+Date:   Sat Sep 10 21:45:47 2022 +0000
+
+    Update placebo_class.cpp
+
+commit 5cacc1a45f510ad1f9c4d1018976270c5c26d46a
+Author: wilsonn <wilsonn@mailhost.cs.uleth.ca>
+Date:   Sat Sep 10 21:41:47 2022 +0000
+
+    Update placebo_class.h
+
+commit a3efd81b9486827fd82452f3a69a2689545e4b1d
+Author: wilsonn <wilsonn@mailhost.cs.uleth.ca>
+Date:   Sat Sep 10 21:40:52 2022 +0000
+
+    Update src/project/main.cpp, src/placebo_class.cpp, include/placebo_class.h
+    Deleted src/project/.empty, src/.empty, include/.empty
+
+commit 39a23ebca0ed37331808cf3a63a085fa9291d0c6
+Author: wilsonn <wilsonn@mailhost.cs.uleth.ca>
+Date:   Sat Sep 10 21:30:35 2022 +0000
+
+    Undo first fix for running test_project... doesn't work on gitlab.
+
+commit e93014bd155c94272cf2dec1a75b21999135154a
+Author: wilsonn <wilsonn@mailhost.cs.uleth.ca>
+Date:   Sat Sep 10 21:18:12 2022 +0000
+
+    Comment obsolete settings in the doxyfile
+
+commit bb177df9f9ddc5737ca34157d4e1cfe94482e2e8
+Author: wilsonn <wilsonn@mailhost.cs.uleth.ca>
+Date:   Sat Sep 10 21:15:46 2022 +0000
+
+    Update Makefile to remove redundant lines
+
+commit ff224c63a218d6cf22e02210526811dffe95ddfd
+Author: wilsonn <wilsonn@mailhost.cs.uleth.ca>
+Date:   Sat Sep 10 21:14:14 2022 +0000
+
+    Update Makefile for Ubuntu
+
+commit 07b6b6bfcdc89f80a9c1dcd2e3d820f7dd1fc8c8
+Author: wilsonn <wilsonn@mailhost.cs.uleth.ca>
+Date:   Tue Feb 8 16:50:05 2022 +0000
+
+    Update .gitlab-ci.yml
+
+commit fcac86b94091f312cf39d3fafc64652dfe251a6c
+Author: wilsonn <wilsonn@mailhost.cs.uleth.ca>
+Date:   Sun Oct 10 17:42:05 2021 +0000
+
+    Update .gitignore
+
+commit 1b99bc2009e1c607f993263691ead3b9cbe3833b
+Author: wilsonn <wilsonn@mailhost.cs.uleth.ca>
+Date:   Sun Oct 10 17:34:47 2021 +0000
+
+    Update .gitignore
+
+commit 1454a7274d60598786849c6e0173639fcbd29bcb
+Author: wilsonn <wilsonn@mailhost.cs.uleth.ca>
+Date:   Sun Oct 10 17:30:16 2021 +0000
+
+    Update .gitlab-ci.yml
+
+commit 1cc7a5526157bd5e125cb04b2a5004e857f44619
+Author: wilsonn <wilsonn@mailhost.cs.uleth.ca>
+Date:   Sat Oct 9 15:21:18 2021 +0000
+
+    Update .gitignore
+
+commit e60b3b53d9a2d146c8d60b08153b4c09db8ec12f
+Author: wilsonn <wilsonn@mailhost.cs.uleth.ca>
+Date:   Sat Oct 9 15:12:04 2021 +0000
+
+    Update Makefile
+
+commit 7832f42e7ce58b4182e07c887a99675996f9ffac
+Author: wilsonn <wilsonn@mailhost.cs.uleth.ca>
+Date:   Sat Oct 9 15:08:45 2021 +0000
+
+    Update Makefile
+
+commit f64c6164b317d590ffe9bdb951a4bb031424e6d2
+Author: wilsonn <wilsonn@mailhost.cs.uleth.ca>
+Date:   Sat Oct 9 15:07:02 2021 +0000
+
+    Update .gitignore
+
+commit d7cb53a53219e7408f5029cf0b862fe1109cafef
+Author: wilsonn <wilsonn@mailhost.cs.uleth.ca>
+Date:   Sat Oct 9 14:46:22 2021 +0000
+
+    Update Makefile, rm PROJECT_DIR, fix coverage, update clean
+
+commit 4f0f49731cb22a53b08ec2253854fe8f124d8270
+Author: wilsonn <wilsonn@mailhost.cs.uleth.ca>
+Date:   Sat Sep 25 19:52:50 2021 +0000
+
+    Update Makefile
+
+commit fc7d67d3bd7abdd79c571ae95236637208c1df5a
+Author: wilsonn <wilsonn@mailhost.cs.uleth.ca>
+Date:   Tue Nov 3 10:06:50 2020 -0700
+
+    Update Makefile
+
+commit e0fcf97c749b3e0ea9a6243bbc2cd80c9b94774b
+Author: wilsonn <wilsonn@mailhost.cs.uleth.ca>
+Date:   Thu Sep 24 21:11:41 2020 -0600
+
+    Update Makefile
+
+commit 31d1f2db4a9aa9637a968657fac388c434e5b2a0
+Author: Nicole Wilson <n.wilson@uleth.ca>
+Date:   Thu Sep 24 09:12:17 2020 -0600
+
+    Add .PHONY to several targets in Makefile
+
+commit 09462da515ab23f41d1ded6a9b8a36a9e672961e
+Author: Nicole Wilson <n.wilson@uleth.ca>
+Date:   Thu Sep 24 09:05:02 2020 -0600
+
+    Updates to the template based on issues submitted in gitlab
+
+commit d69737268d76ec3777ae17398869c988fd7274df
+Author: Nicole Wilson <n.wilson@uleth.ca>
+Date:   Wed Jun 17 10:48:51 2020 -0600
+
+    Update the README and add templates
+
+commit 650c58343c3b3c8e78539fcf41ffc096f48cf560
+Author: wilsonn <wilsonn@mailhost.cs.uleth.ca>
+Date:   Wed Jun 17 10:31:20 2020 -0600
+
+    Initial commit
